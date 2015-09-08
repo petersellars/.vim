@@ -144,7 +144,7 @@ endif
 
 syntax enable
 if has('gui_running')
-	set transparency=3
+	"set transparency=3
 	" fix js regex syntax
 	set regexpengine=1
 	syntax enable
