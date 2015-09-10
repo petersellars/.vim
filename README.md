@@ -12,12 +12,12 @@ $ cd ~/
 $ git clone --recursive git@github.com:petersellars/.vim.git .vim
 $ ln -sf $HOME/.vim/vimrc $HOME/.vimrc
 ```
-## Pathogen
+### Pathogen
 The vim dot files make use of the excellent [Pathogen](https://github.com/tpope/vim-pathogen) runtime path manager to install plugins and runtime files into their own private directiories.
 
 Currently using version 2.2 of Pathogen
 
-## Plugins Used
+### Plugins Used
 
 * Dockerfile 
 * [ack](https://github.com/mileszs/ack.vim) - Search Tool
@@ -29,8 +29,7 @@ Currently using version 2.2 of Pathogen
 * [tabular](https://github.com/godlygeek/tabular) - Tab Control
 * [vim-airline](https://github.com/bling/vim-airline) - Lean status/tabline
 * [vim-cfmt](https://github.com/crosbymichael/vim-cfmt) - C code formatter
-* [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
-  - Solarized Colorscheme
+* [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - Solarized Colorscheme
 * [vim-endwise](https://github.com/tpope/vim-endwise) - End certain structure
   automatically
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Git Wrapper
