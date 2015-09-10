@@ -191,6 +191,12 @@ nmap <C-t> :bn<CR>
 " Markdown turn off folding
 let g:vim_markdown_folding_disabled=1
 
+" Default to GitHub flavored Markdown
+augroup markdown
+	au!
+	au BufNewFile,BufRead *.md,*.markdown setlocal filetype=ghmarkdown
+augroup END
+
 " dont save .netrwhist history
 let g:netrw_dirhistmax=0
 

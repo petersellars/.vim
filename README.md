@@ -12,6 +12,7 @@ $ cd ~/
 $ git clone --recursive git@github.com:petersellars/.vim.git .vim
 $ ln -sf $HOME/.vim/vimrc $HOME/.vimrc
 ```
+
 ### Pathogen
 The vim dot files make use of the excellent [Pathogen](https://github.com/tpope/vim-pathogen) runtime path manager to install plugins and runtime files into their own private directiories.
 
