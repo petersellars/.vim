@@ -33,6 +33,9 @@ Currently using version 2.2 of Pathogen
 * [vim-endwise](https://github.com/tpope/vim-endwise) - End certain structure
   automatically
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - Git Wrapper
+* [vim-flavored-markdown](https://github.com/jtratner/vim-flavored-markdown) - GitHub flavored Markdown
+* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) -Gif diff in
+  'gutter'
 * [vim-go](https://github.com/fatih/vim-go) - Go support
 * [vim-indent-lines](https://github.com/Yggdroot/indentLine) - Display space
   indentation levels

@@ -53,3 +53,6 @@
 [submodule "bundle/vim-systemd"]
 	path = bundle/vim-systemd
 	url = git://fedorapeople.org/home/fedora/wwoods/public_git/vim-scripts.git
+[submodule "bundle/vim-flavored-markdown"]
+	path = bundle/vim-flavored-markdown
+	url = git@github.com:jtratner/vim-flavored-markdown.git
