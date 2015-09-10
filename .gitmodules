@@ -27,7 +27,8 @@
     url = git@github.com:groenewege/vim-less.git
 [submodule "bundle/delimitMate.vim"]
 	path = bundle/delimitMate.vim
-    url = git@github.com:vim-scripts/delimitMate.vim.git
+	url = git@github.com:vim-scripts/delimitMate.vim.git
+	ignore = dirty
 [submodule "bundle/minibufexpl.vim"]
 	path = bundle/minibufexpl.vim
     url = git@github.com:fholgado/minibufexpl.vim.git
