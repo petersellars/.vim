@@ -24,8 +24,10 @@ Currently using version 2.2 of Pathogen
 * [ack](https://github.com/mileszs/ack.vim) - Search Tool
 * [delimitMate](https://github.com/vim-scripts/delimitMate.vim) - Automatic
   closing of quotes, parenthesis, brackets, etc.
+* [ember](https://github.com/dsawardekar/ember.vim) - Ember Support
 * [minibufexpl](https://github.com/fholgado/minibufexpl.vim) - Buffer Status
 * [nerdtree](https://github.com/scrooloose/nerdtree) - Filesystem Explorer
+* [portkey](https://github.com/dsawardekar/portkey) - Move around Project Files
 * [syntastic](https://github.com/scrooloose/syntastic) - Syntax Checking
 * [tabular](https://github.com/godlygeek/tabular) - Tab Control
 * [vim-airline](https://github.com/bling/vim-airline) - Lean status/tabline

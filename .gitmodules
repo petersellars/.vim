@@ -56,3 +56,9 @@
 [submodule "bundle/vim-flavored-markdown"]
 	path = bundle/vim-flavored-markdown
 	url = git@github.com:jtratner/vim-flavored-markdown.git
+[submodule "bundle/portkey"]
+	path = bundle/portkey
+	url = git@github.com:dsawardekar/portkey.git
+[submodule "bundle/ember.vim"]
+	path = bundle/ember.vim
+	url = git@github.com:dsawardekar/ember.vim.git
